@@ -1125,7 +1125,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Average science scale score, by age and selected student and school characteristics: Selected years, 1970 to 1999 ",
+      "title": "Average science scale score, by age and selected student and school characteristics: Selected years, 1970 to 1999",
       "description": "text",
       "keyword": [
         "nces"
@@ -2077,7 +2077,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2015 Results -\r\n        Financial Literacy: Percentiles",
+      "title": "Program for International Student Assessment (PISA): 2015 Results -\r\n        Financial Literacy: Percentiles",
       "description": "text",
       "keyword": [
         "nces"
@@ -2275,7 +2275,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Master's degrees conferred by degree-granting institutions, by racial/ethnic group, major field of study, and sex of student: 1996-97 ",
+      "title": "Master's degrees conferred by degree-granting institutions, by racial/ethnic group, major field of study, and sex of student: 1996-97",
       "description": "text",
       "keyword": [
         "nces"
@@ -3013,7 +3013,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Mathematics average scale score and performance and selected statistics on mathematics education for 4th-graders in public schools, by state or jurisdiction: 1992, 2000, and 2003 ",
+      "title": "Mathematics average scale score and performance and selected statistics on mathematics education for 4th-graders in public schools, by state or jurisdiction: 1992, 2000, and 2003",
       "description": "text",
       "keyword": [
         "nces"
@@ -3051,7 +3051,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\n        Percentage of 1995\u201396 and 2003\u201304 beginning postsecondary students who persisted or attained a credential after 6 years, by initial degree or certificate program and field of study: 2001 and 2009\n    ",
+      "title": "Percentage of 1995\u201396 and 2003\u201304 beginning postsecondary students who persisted or attained a credential after 6 years, by initial degree or certificate program and field of study: 2001 and 2009",
       "description": "text",
       "keyword": [
         "nces"
@@ -3097,7 +3097,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Associate degrees and other subbaccalaureate awards conferred by degree-granting institutions, by length of curriculum, sex of student, and field of study: 2001-02 ",
+      "title": "Associate degrees and other subbaccalaureate awards conferred by degree-granting institutions, by length of curriculum, sex of student, and field of study: 2001-02",
       "description": "text",
       "keyword": [
         "nces"
@@ -3371,7 +3371,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n    Program for International Student Assessment (PISA): 2015 Results -\r\n    Science Literacy: Proficiency Levels",
+      "title": "Program for International Student Assessment (PISA): 2015 Results -\r\n    Science Literacy: Proficiency Levels",
       "description": "text",
       "keyword": [
         "nces"
@@ -3637,7 +3637,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "SAT mean scores of college-bound seniors, by selected student characteristics: Selected years, 1995\u201396 through 2007\u201308  ",
+      "title": "SAT mean scores of college-bound seniors, by selected student characteristics: Selected years, 1995\u201396 through 2007\u201308",
       "description": "text",
       "keyword": [
         "nces"
@@ -4337,7 +4337,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Number of children under 6 years old and not yet enrolled in kindergarten, percentage in center-based programs, average weekly hours in nonparental care, and percentage in various types of primary care arrangements, by selected child and family characteristics: 2005 ",
+      "title": "Number of children under 6 years old and not yet enrolled in kindergarten, percentage in center-based programs, average weekly hours in nonparental care, and percentage in various types of primary care arrangements, by selected child and family characteristics: 2005",
       "description": "text",
       "keyword": [
         "nces"
@@ -4565,7 +4565,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Average reading scale scores, by race/ethnicity and grade: 2000, 2002, and 2003 -- Status and Trends in the Education of American Indians and Alaska Natives, ",
+      "title": "Average reading scale scores, by race/ethnicity and grade: 2000, 2002, and 2003 -- Status and Trends in the Education of American Indians and Alaska Natives,",
       "description": "text",
       "keyword": [
         "nces"
@@ -4763,7 +4763,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Average SAT scores for college-bound seniors, by race/ethnicity: 1996 to 2004 -- Status and Trends in the Education of American Indians and Alaska Natives, ",
+      "title": "Average SAT scores for college-bound seniors, by race/ethnicity: 1996 to 2004 -- Status and Trends in the Education of American Indians and Alaska Natives,",
       "description": "text",
       "keyword": [
         "nces"
@@ -5067,7 +5067,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        State Results: Connecticut",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        State Results: Connecticut",
       "description": "text",
       "keyword": [
         "nces"
@@ -5303,7 +5303,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Average writing scale score of 4th-, 8th-, and 11th-graders, by selected student and school characteristics: Selected years, 1984 to 1996 ",
+      "title": "Average writing scale score of 4th-, 8th-, and 11th-graders, by selected student and school characteristics: Selected years, 1984 to 1996",
       "description": "text",
       "keyword": [
         "nces"
@@ -5455,7 +5455,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2015 Results -\r\n        Trends in Student Performance: International Trends in Average Scores",
+      "title": "Program for International Student Assessment (PISA): 2015 Results -\r\n        Trends in Student Performance: International Trends in Average Scores",
       "description": "text",
       "keyword": [
         "nces"
@@ -5531,7 +5531,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Number of persons age 18 and over who hold a bachelor's or higher degree, by field of study, sex, race, and age: Spring 1993 ",
+      "title": "Number of persons age 18 and over who hold a bachelor's or higher degree, by field of study, sex, race, and age: Spring 1993",
       "description": "text",
       "keyword": [
         "nces"
@@ -5645,7 +5645,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Average mathematics scores at the end of secondary school, by sex, average time spent studying mathematics out of school, and country: 1995 ",
+      "title": "Average mathematics scores at the end of secondary school, by sex, average time spent studying mathematics out of school, and country: 1995",
       "description": "text",
       "keyword": [
         "nces"
@@ -5949,7 +5949,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Total expenditures of educational institutions, by level andcontrol of institution: 1899-1900 to 1996-97 ",
+      "title": "Total expenditures of educational institutions, by level andcontrol of institution: 1899-1900 to 1996-97",
       "description": "text",
       "keyword": [
         "nces"
@@ -5987,7 +5987,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\tCalendar of Events\r\n",
+      "title": "Calendar of Events",
       "description": "text",
       "keyword": [
         "nces"
@@ -7479,7 +7479,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Total fall enrollment in public degree-granting institutions, by attendance status, sex, and state or jurisdiction: 2005 and 2006 ",
+      "title": "Total fall enrollment in public degree-granting institutions, by attendance status, sex, and state or jurisdiction: 2005 and 2006",
       "description": "text",
       "keyword": [
         "nces"
@@ -8065,7 +8065,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Average U.S. history scale scores, by race/ethnicity and grade: 1994 and 2001 -- Status and Trends in the Education of American Indians and Alaska Natives, ",
+      "title": "Average U.S. history scale scores, by race/ethnicity and grade: 1994 and 2001 -- Status and Trends in the Education of American Indians and Alaska Natives,",
       "description": "text",
       "keyword": [
         "nces"
@@ -8157,7 +8157,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        State Results: Massachusetts",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        State Results: Massachusetts",
       "description": "text",
       "keyword": [
         "nces"
@@ -8347,7 +8347,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Table 3. Number of full-time-equivalent (FTE) staff for public schools, by category and state or jurisdiction: School year 2008\u201309 ",
+      "title": "Table 3. Number of full-time-equivalent (FTE) staff for public schools, by category and state or jurisdiction: School year 2008\u201309",
       "description": "text",
       "keyword": [
         "nces"
@@ -8615,7 +8615,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " Total number of private schools and students, and percentage of private schools and students that participated in the Title I and federal free or reduced-price lunch programs, by school type and selected school characteristics: 2015\u201316",
+      "title": "Total number of private schools and students, and percentage of private schools and students that participated in the Title I and federal free or reduced-price lunch programs, by school type and selected school characteristics: 2015\u201316",
       "description": "text",
       "keyword": [
         "nces"
@@ -8745,7 +8745,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        State Results: Connecticut",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        State Results: Connecticut",
       "description": "text",
       "keyword": [
         "nces"
@@ -9285,7 +9285,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Percentage of babies of low birthweight, by race/ethnicity: 2002 -- Status and Trends in the Education of American Indians and Alaska Natives, ",
+      "title": "Percentage of babies of low birthweight, by race/ethnicity: 2002 -- Status and Trends in the Education of American Indians and Alaska Natives,",
       "description": "text",
       "keyword": [
         "nces"
@@ -9711,7 +9711,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\tNCES Conferences, Workshop/Training & Technical Assistance\r\n",
+      "title": "NCES Conferences, Workshop/Training & Technical Assistance",
       "description": "text",
       "keyword": [
         "nces"
@@ -9787,7 +9787,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Federal on-budget funds for education, by level/educational purpose, agency, and program: Selected fiscal years, 1970 through 2007 ",
+      "title": "Federal on-budget funds for education, by level/educational purpose, agency, and program: Selected fiscal years, 1970 through 2007",
       "description": "text",
       "keyword": [
         "nces"
@@ -10213,7 +10213,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\tCalendar of Events\r\n",
+      "title": "Calendar of Events",
       "description": "text",
       "keyword": [
         "nces"
@@ -11065,7 +11065,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Problem Solving: School Poverty Indicator",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Problem Solving: School Poverty Indicator",
       "description": "text",
       "keyword": [
         "nces"
@@ -11377,7 +11377,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Enrollment in postsecondary education, by student level, type of institution, age, and major field of study: 2003\u201304 ",
+      "title": "Enrollment in postsecondary education, by student level, type of institution, age, and major field of study: 2003\u201304",
       "description": "text",
       "keyword": [
         "nces"
@@ -11851,7 +11851,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Selected population and finance statistics, school enrollment, and teachers, by major areas of the world: Selected years, 1980 through 2004 ",
+      "title": "Selected population and finance statistics, school enrollment, and teachers, by major areas of the world: Selected years, 1980 through 2004",
       "description": "text",
       "keyword": [
         "nces"
@@ -11889,7 +11889,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\tCalendar of Events\r\n",
+      "title": "Calendar of Events",
       "description": "text",
       "keyword": [
         "nces"
@@ -12125,7 +12125,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Total and current expenditures per pupil in public elementary and secondary schools: Selected years, 1919\u201320 through 2005\u201306 ",
+      "title": "Total and current expenditures per pupil in public elementary and secondary schools: Selected years, 1919\u201320 through 2005\u201306",
       "description": "text",
       "keyword": [
         "nces"
@@ -13061,7 +13061,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "State requirements for a standard high school diploma: 2006 ",
+      "title": "State requirements for a standard high school diploma: 2006",
       "description": "text",
       "keyword": [
         "nces"
@@ -13753,7 +13753,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "U.S. Department of Health and Human Services allocations for Head Start and enrollment in Head Start, by state or jurisdiction: Fiscal years 2000 to 2003 ",
+      "title": "U.S. Department of Health and Human Services allocations for Head Start and enrollment in Head Start, by state or jurisdiction: Fiscal years 2000 to 2003",
       "description": "text",
       "keyword": [
         "nces"
@@ -14057,7 +14057,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\r\n",
       "description": "text",
       "keyword": [
         "nces"
@@ -14095,7 +14094,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Staff, enrollment, and pupil to staff ratios in public elementary and secondary school systems, by state or jurisdiction: Fall 1995 to fall 2001 ",
+      "title": "Staff, enrollment, and pupil to staff ratios in public elementary and secondary school systems, by state or jurisdiction: Fall 1995 to fall 2001",
       "description": "text",
       "keyword": [
         "nces"
@@ -14361,7 +14360,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Table 1. Selected statistics for public elementary and secondary schools and school districts for the United States and jurisdictions and the 100 largest and 500 largest school districts: School year 2007\u201308 ",
+      "title": "Table 1. Selected statistics for public elementary and secondary schools and school districts for the United States and jurisdictions and the 100 largest and 500 largest school districts: School year 2007\u201308",
       "description": "text",
       "keyword": [
         "nces"
@@ -14437,7 +14436,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Trends in International Mathematics and Science Study (TIMSS): International and U.S. Response Rates\r\n        -\r\n        International and U.S. Response Rates - ",
+      "title": "Trends in International Mathematics and Science Study (TIMSS): International and U.S. Response Rates\r\n        -\r\n        International and U.S. Response Rates -",
       "description": "text",
       "keyword": [
         "nces"
@@ -14635,7 +14634,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Reading Literacy: Student Race/Ethnicity",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Reading Literacy: Student Race/Ethnicity",
       "description": "text",
       "keyword": [
         "nces"
@@ -14825,7 +14824,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Data File (Public Use): Public Libraries Survey: Fiscal Year 2003 ",
+      "title": "Data File (Public Use): Public Libraries Survey: Fiscal Year 2003",
       "description": "text",
       "keyword": [
         "nces"
@@ -14985,7 +14984,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " Number and percentage distribution of traditional PSS private schools and, students and full-time equivalent (FTE) teachers in traditional PSS private schools, by religious or nonsectarian orientation of school: United States, 2015\u201316",
+      "title": "Number and percentage distribution of traditional PSS private schools and, students and full-time equivalent (FTE) teachers in traditional PSS private schools, by religious or nonsectarian orientation of school: United States, 2015\u201316",
       "description": "text",
       "keyword": [
         "nces"
@@ -15351,7 +15350,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " Percentage of public combined school principals who rated specific education goals as one of their top three most important goals, by charter status, and community type: School year 2015\u201316",
+      "title": "Percentage of public combined school principals who rated specific education goals as one of their top three most important goals, by charter status, and community type: School year 2015\u201316",
       "description": "text",
       "keyword": [
         "nces"
@@ -15589,7 +15588,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\t\r\n\r\nNAEP State Mapping - Estimated NAEP equivalent scores for state grade 8 proficiency standards, by subject, state, and testing program: 2017\r\n\r\n",
+      "title": "NAEP State Mapping - Estimated NAEP equivalent scores for state grade 8 proficiency standards, by subject, state, and testing program: 2017",
       "description": "text",
       "keyword": [
         "nces"
@@ -15627,7 +15626,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " Table 39. Percentage of public schools reporting that their efforts to provide mental health services to students were limited in a major or minor way due to specified non-school-level factors, by selected school characteristics: School year 2015\u201316",
+      "title": "Table 39. Percentage of public schools reporting that their efforts to provide mental health services to students were limited in a major or minor way due to specified non-school-level factors, by selected school characteristics: School year 2015\u201316",
       "description": "text",
       "keyword": [
         "nces"
@@ -15711,7 +15710,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " Number and percentage of public elementary and secondary schools and students participating in Title I schools and programs in the 100 largest districts in the United States and jurisdictions: School year 2000-01, Table 13",
+      "title": "Number and percentage of public elementary and secondary schools and students participating in Title I schools and programs in the 100 largest districts in the United States and jurisdictions: School year 2000-01, Table 13",
       "description": "text",
       "keyword": [
         "nces"
@@ -16389,7 +16388,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Average benefit expenditure for full-time instructional faculty on 9-month contracts in degree-granting institutions, by type of benefit and control of institution: Selected years, 1977-78 to 2002-03 ",
+      "title": "Average benefit expenditure for full-time instructional faculty on 9-month contracts in degree-granting institutions, by type of benefit and control of institution: Selected years, 1977-78 to 2002-03",
       "description": "text",
       "keyword": [
         "nces"
@@ -16731,7 +16730,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Percentage of students in grades 9 through 12 who reported experience with drugs and violence on school property, by race/ethnicity, grade, and sex: Selected years, 1997 through 2007 ",
+      "title": "Percentage of students in grades 9 through 12 who reported experience with drugs and violence on school property, by race/ethnicity, grade, and sex: Selected years, 1997 through 2007",
       "description": "text",
       "keyword": [
         "nces"
@@ -17587,7 +17586,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Computer-Based Assessments: Reading Computer-Based Assessment",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Computer-Based Assessments: Reading Computer-Based Assessment",
       "description": "text",
       "keyword": [
         "nces"
@@ -17861,7 +17860,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Federal on-budget funds for education, by level/educational purpose, agency, and program: Selected fiscal years, 1970 through 2007 ",
+      "title": "Federal on-budget funds for education, by level/educational purpose, agency, and program: Selected fiscal years, 1970 through 2007",
       "description": "text",
       "keyword": [
         "nces"
@@ -18097,7 +18096,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\t\r\n\r\nNAEP State Mapping - Findings Table 2013a\r\n\r\n",
+      "title": "NAEP State Mapping - Findings Table 2013a",
       "description": "text",
       "keyword": [
         "nces"
@@ -18751,7 +18750,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Public high school graduates and dropouts, by race/ethnicity and state or jurisdiction: 2005\u201306 ",
+      "title": "Public high school graduates and dropouts, by race/ethnicity and state or jurisdiction: 2005\u201306",
       "description": "text",
       "keyword": [
         "nces"
@@ -19261,7 +19260,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Teaching and Learning International Survey (TALIS): 2013 Results\r\n        -\r\n        Professional Development: Barriers to participation in professional development",
+      "title": "Teaching and Learning International Survey (TALIS): 2013 Results\r\n        -\r\n        Professional Development: Barriers to participation in professional development",
       "description": "text",
       "keyword": [
         "nces"
@@ -19337,7 +19336,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Average science scale score of 12th-graders and percentage reporting various attitudes toward science, by selected student and school characteristics: 2005 ",
+      "title": "Average science scale score of 12th-graders and percentage reporting various attitudes toward science, by selected student and school characteristics: 2005",
       "description": "text",
       "keyword": [
         "nces"
@@ -19819,7 +19818,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2015 Results -\r\n        State Results: Massachusetts",
+      "title": "Program for International Student Assessment (PISA): 2015 Results -\r\n        State Results: Massachusetts",
       "description": "text",
       "keyword": [
         "nces"
@@ -20405,7 +20404,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Earned degrees in engineering and engineering technologies conferred by degree-granting institutions, by level of degree and sex of student: Selected years, 1949-50 to 2002-03 ",
+      "title": "Earned degrees in engineering and engineering technologies conferred by degree-granting institutions, by level of degree and sex of student: Selected years, 1949-50 to 2002-03",
       "description": "text",
       "keyword": [
         "nces"
@@ -20481,7 +20480,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        State Results: Massachusetts",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        State Results: Massachusetts",
       "description": "text",
       "keyword": [
         "nces"
@@ -21143,7 +21142,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\t\r\n\r\nNAEP State Mapping - Findings Table 2009e\r\n\r\n",
+      "title": "NAEP State Mapping - Findings Table 2009e",
       "description": "text",
       "keyword": [
         "nces"
@@ -22819,7 +22818,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        State Results: Florida",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        State Results: Florida",
       "description": "text",
       "keyword": [
         "nces"
@@ -22971,7 +22970,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\r\n",
       "description": "text",
       "keyword": [
         "nces"
@@ -23207,7 +23205,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Number of ",
+      "title": "Number of",
       "description": "text",
       "keyword": [
         "nces"
@@ -23717,7 +23715,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Associate's degrees conferred by degree-granting institutions, by field of study: 1994\u201395 through 2005-06 ",
+      "title": "Associate's degrees conferred by degree-granting institutions, by field of study: 1994\u201395 through 2005-06",
       "description": "text",
       "keyword": [
         "nces"
@@ -23793,7 +23791,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2015 Results -\r\n        Financial Literacy: Percentiles",
+      "title": "Program for International Student Assessment (PISA): 2015 Results -\r\n        Financial Literacy: Percentiles",
       "description": "text",
       "keyword": [
         "nces"
@@ -24417,7 +24415,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " Percentage of public schools with a library media center, percentage with students attending across 12 months, percentage that offered any courses entirely online, and percentage that offered a foreign language immersion program, by state: 2017\u201318",
+      "title": "Percentage of public schools with a library media center, percentage with students attending across 12 months, percentage that offered any courses entirely online, and percentage that offered a foreign language immersion program, by state: 2017\u201318",
       "description": "text",
       "keyword": [
         "nces"
@@ -25103,7 +25101,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Mathematics Literacy: Student Race/Ethnicity",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Mathematics Literacy: Student Race/Ethnicity",
       "description": "text",
       "keyword": [
         "nces"
@@ -25911,7 +25909,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Graduate enrollment in science and engineering programs in degree-granting institutions, by field of study: United States and other jurisdictions, fall 1990 to fall 2002 ",
+      "title": "Graduate enrollment in science and engineering programs in degree-granting institutions, by field of study: United States and other jurisdictions, fall 1990 to fall 2002",
       "description": "text",
       "keyword": [
         "nces"
@@ -26109,7 +26107,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2015 Results -\r\n        Financial Literacy: Gender",
+      "title": "Program for International Student Assessment (PISA): 2015 Results -\r\n        Financial Literacy: Gender",
       "description": "text",
       "keyword": [
         "nces"
@@ -26269,7 +26267,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Table 3.8.  Average number of years of teaching experience for public school teachers and percentage distribution of such teachers, by years of teaching experience, locale, and grade level taught: 2003\u201304   ",
+      "title": "Table 3.8.  Average number of years of teaching experience for public school teachers and percentage distribution of such teachers, by years of teaching experience, locale, and grade level taught: 2003\u201304",
       "description": "text",
       "keyword": [
         "nces"
@@ -26665,7 +26663,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2015 Results -\r\n        Science Literacy: Race and Ethnicity",
+      "title": "Program for International Student Assessment (PISA): 2015 Results -\r\n        Science Literacy: Race and Ethnicity",
       "description": "text",
       "keyword": [
         "nces"
@@ -26893,7 +26891,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Average mathematics scale scores of 4th-, 8th-, and 12th-graders, by selected student and school characteristics: Selected years, 1990 through 2007 ",
+      "title": "Average mathematics scale scores of 4th-, 8th-, and 12th-graders, by selected student and school characteristics: Selected years, 1990 through 2007",
       "description": "text",
       "keyword": [
         "nces"
@@ -27905,7 +27903,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Employees in degree-granting institutions, by race/ethnicity and residency status, sex, employment status, control and type of institution, and primary occupation: Fall 2005 ",
+      "title": "Employees in degree-granting institutions, by race/ethnicity and residency status, sex, employment status, control and type of institution, and primary occupation: Fall 2005",
       "description": "text",
       "keyword": [
         "nces"
@@ -28103,7 +28101,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\r\n",
       "description": "text",
       "keyword": [
         "nces"
@@ -28301,7 +28298,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2015 Results -\r\n        State Results: Massachusetts",
+      "title": "Program for International Student Assessment (PISA): 2015 Results -\r\n        State Results: Massachusetts",
       "description": "text",
       "keyword": [
         "nces"
@@ -28491,7 +28488,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Public high school graduates, by state or jurisdication: Selected years, 1969-70 to 2002-03 ",
+      "title": "Public high school graduates, by state or jurisdication: Selected years, 1969-70 to 2002-03",
       "description": "text",
       "keyword": [
         "nces"
@@ -29297,7 +29294,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Table A-16. Number of students in public elementary and secondary schools in the 100 largest school districts in the United States and jurisdictions, by grade range and school district: School year 2003\u201304 ",
+      "title": "Table A-16. Number of students in public elementary and secondary schools in the 100 largest school districts in the United States and jurisdictions, by grade range and school district: School year 2003\u201304",
       "description": "text",
       "keyword": [
         "nces"
@@ -29335,7 +29332,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Ages for compulsory school attendance, special education services for students, policies for year-round schools and kindergarten programs, by state: 1997 and 2000 ",
+      "title": "Ages for compulsory school attendance, special education services for students, policies for year-round schools and kindergarten programs, by state: 1997 and 2000",
       "description": "text",
       "keyword": [
         "nces"
@@ -29495,7 +29492,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2015 Results -\r\n        Financial Literacy: Race and Ethnicity",
+      "title": "Program for International Student Assessment (PISA): 2015 Results -\r\n        Financial Literacy: Race and Ethnicity",
       "description": "text",
       "keyword": [
         "nces"
@@ -29777,7 +29774,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Trends in International Mathematics and Science Study (TIMSS): International and U.S. Response Rates\r\n        -\r\n        International and U.S. Response Rates - ",
+      "title": "Trends in International Mathematics and Science Study (TIMSS): International and U.S. Response Rates\r\n        -\r\n        International and U.S. Response Rates -",
       "description": "text",
       "keyword": [
         "nces"
@@ -31133,7 +31130,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Total fall enrollment in degree-granting institutions, by level of enrollment and state or jurisdiction: 2001 and 2002 ",
+      "title": "Total fall enrollment in degree-granting institutions, by level of enrollment and state or jurisdiction: 2001 and 2002",
       "description": "text",
       "keyword": [
         "nces"
@@ -31407,7 +31404,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Total and current expenditures per pupil in fall enrollment in public elementary and secondary education, by function and state or jurisdiction: 2000-01 ",
+      "title": "Total and current expenditures per pupil in fall enrollment in public elementary and secondary education, by function and state or jurisdiction: 2000-01",
       "description": "text",
       "keyword": [
         "nces"
@@ -31833,7 +31830,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Total fall enrollment in degree-granting institutions, by attendance status, sex of student, and control of institution: 1947 to 1998 ",
+      "title": "Total fall enrollment in degree-granting institutions, by attendance status, sex of student, and control of institution: 1947 to 1998",
       "description": "text",
       "keyword": [
         "nces"
@@ -32769,7 +32766,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Number and percentage distribution of ",
+      "title": "Number and percentage distribution of",
       "description": "text",
       "keyword": [
         "nces"
@@ -32921,7 +32918,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2015 Results -\r\n        Reading Literacy: Average Scores",
+      "title": "Program for International Student Assessment (PISA): 2015 Results -\r\n        Reading Literacy: Average Scores",
       "description": "text",
       "keyword": [
         "nces"
@@ -34967,7 +34964,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " - Concurrent Session VI Presentations",
+      "title": "- Concurrent Session VI Presentations",
       "description": "text",
       "keyword": [
         "nces"
@@ -35069,7 +35066,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Number and percentage of homeschooled students ages 5 through 17 with a grade equivalent of kindergarten through 12th grade, by selected child, parent, and household characteristics: 1999 and 2003 ",
+      "title": "Number and percentage of homeschooled students ages 5 through 17 with a grade equivalent of kindergarten through 12th grade, by selected child, parent, and household characteristics: 1999 and 2003",
       "description": "text",
       "keyword": [
         "nces"
@@ -35343,7 +35340,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Earned degrees in the physical sciences and science technologies conferred by degree-granting institutions, by level of degree and sex of student: Selected years, 1959-60 to 2002-03 ",
+      "title": "Earned degrees in the physical sciences and science technologies conferred by degree-granting institutions, by level of degree and sex of student: Selected years, 1959-60 to 2002-03",
       "description": "text",
       "keyword": [
         "nces"
@@ -36587,7 +36584,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Average undergraduate tuition and fees and room and board rates charged for full-time students in degree-granting institutions, by type and control of institution: 1964-65 through 2006-07 ",
+      "title": "Average undergraduate tuition and fees and room and board rates charged for full-time students in degree-granting institutions, by type and control of institution: 1964-65 through 2006-07",
       "description": "text",
       "keyword": [
         "nces"
@@ -36891,7 +36888,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2015 Results -\r\n        State Results: Massachusetts - Trends in Student Performance",
+      "title": "Program for International Student Assessment (PISA): 2015 Results -\r\n        State Results: Massachusetts - Trends in Student Performance",
       "description": "text",
       "keyword": [
         "nces"
@@ -37051,7 +37048,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Teaching and Learning International Survey (TALIS): 2013 Results\r\n        -\r\n        Teacher Appraisal and Feedback: Perceived impact of appraisal",
+      "title": "Teaching and Learning International Survey (TALIS): 2013 Results\r\n        -\r\n        Teacher Appraisal and Feedback: Perceived impact of appraisal",
       "description": "text",
       "keyword": [
         "nces"
@@ -37325,7 +37322,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Earned degrees in psychology conferred by degree-granting institutions, by level of degree and sex of student: Selected years, 1949-50 to 2002-03 ",
+      "title": "Earned degrees in psychology conferred by degree-granting institutions, by level of degree and sex of student: Selected years, 1949-50 to 2002-03",
       "description": "text",
       "keyword": [
         "nces"
@@ -37637,7 +37634,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Total fall enrollment in public degree-granting institutions, by attendance status, sex, and state or jurisdiction: 2001 and 2002 ",
+      "title": "Total fall enrollment in public degree-granting institutions, by attendance status, sex, and state or jurisdiction: 2001 and 2002",
       "description": "text",
       "keyword": [
         "nces"
@@ -37751,7 +37748,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\r\n",
       "description": "text",
       "keyword": [
         "nces"
@@ -37789,7 +37785,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2015 Results -\r\n        Collaborative Problem Solving: School Poverty Indicator",
+      "title": "Program for International Student Assessment (PISA): 2015 Results -\r\n        Collaborative Problem Solving: School Poverty Indicator",
       "description": "text",
       "keyword": [
         "nces"
@@ -37827,7 +37823,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Earned degrees in the biological/life sciences conferred by degree-granting institutions, by level of degree and sex of student: Selected years, 1951-52 to 2001-02 ",
+      "title": "Earned degrees in the biological/life sciences conferred by degree-granting institutions, by level of degree and sex of student: Selected years, 1951-52 to 2001-02",
       "description": "text",
       "keyword": [
         "nces"
@@ -39595,7 +39591,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2015 Results -\r\n        Mathematics Literacy: School Poverty Indicator",
+      "title": "Program for International Student Assessment (PISA): 2015 Results -\r\n        Mathematics Literacy: School Poverty Indicator",
       "description": "text",
       "keyword": [
         "nces"
@@ -40261,7 +40257,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        State Results: Connecticut",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        State Results: Connecticut",
       "description": "text",
       "keyword": [
         "nces"
@@ -40527,7 +40523,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Current-fund revenue of public institutions of higher education, by source of funds and state: 1994-95 ",
+      "title": "Current-fund revenue of public institutions of higher education, by source of funds and state: 1994-95",
       "description": "text",
       "keyword": [
         "nces"
@@ -41235,7 +41231,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Percentage distribution of disabled persons 6 to 21 years old receiving education services for the disabled, by educational environment and type of disability: United States and outlying areas, 2001-02 and 2002-03 ",
+      "title": "Percentage distribution of disabled persons 6 to 21 years old receiving education services for the disabled, by educational environment and type of disability: United States and outlying areas, 2001-02 and 2002-03",
       "description": "text",
       "keyword": [
         "nces"
@@ -41943,7 +41939,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2015 Results -\r\n        Reading Literacy: Race and Ethnicity",
+      "title": "Program for International Student Assessment (PISA): 2015 Results -\r\n        Reading Literacy: Race and Ethnicity",
       "description": "text",
       "keyword": [
         "nces"
@@ -42255,7 +42251,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Master's degrees conferred by degree-granting institutions, by discipline division: 1970-71 to 1997-98 ",
+      "title": "Master's degrees conferred by degree-granting institutions, by discipline division: 1970-71 to 1997-98",
       "description": "text",
       "keyword": [
         "nces"
@@ -42613,7 +42609,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " Percentage distribution of public school principals, by race/ethnicity and state: 2017\u201318",
+      "title": "Percentage distribution of public school principals, by race/ethnicity and state: 2017\u201318",
       "description": "text",
       "keyword": [
         "nces"
@@ -42659,7 +42655,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\r\n",
       "description": "text",
       "keyword": [
         "nces"
@@ -42933,7 +42928,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Percentage distribution of students, NAEP reading achievement levels, by race/ethnicity and grade: 2003 -- Status and Trends in the Education of American Indians and Alaska Natives, ",
+      "title": "Percentage distribution of students, NAEP reading achievement levels, by race/ethnicity and grade: 2003 -- Status and Trends in the Education of American Indians and Alaska Natives,",
       "description": "text",
       "keyword": [
         "nces"
@@ -43641,7 +43636,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Problem Solving: Percentiles",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Problem Solving: Percentiles",
       "description": "text",
       "keyword": [
         "nces"
@@ -43839,7 +43834,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Statistical profile of persons receiving doctor's degrees in engineering: Selected years, 1979-80 to 2000-01 ",
+      "title": "Statistical profile of persons receiving doctor's degrees in engineering: Selected years, 1979-80 to 2000-01",
       "description": "text",
       "keyword": [
         "nces"
@@ -44305,7 +44300,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2015 Results -\r\n        Trends in Student Performance: International Trends in Average Scores",
+      "title": "Program for International Student Assessment (PISA): 2015 Results -\r\n        Trends in Student Performance: International Trends in Average Scores",
       "description": "text",
       "keyword": [
         "nces"
@@ -44815,7 +44810,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " Number of incidents of students bringing firearms to or possessing firearms at a public school and rate of incidents per 100,000 students, by state: 2009-10 through 2015-16",
+      "title": "Number of incidents of students bringing firearms to or possessing firearms at a public school and rate of incidents per 100,000 students, by state: 2009-10 through 2015-16",
       "description": "text",
       "keyword": [
         "nces"
@@ -45051,7 +45046,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "U.S. Department of Education outlays, by level of education and type of recipient:  Fiscal years 1980 to 2002  ",
+      "title": "U.S. Department of Education outlays, by level of education and type of recipient:  Fiscal years 1980 to 2002",
       "description": "text",
       "keyword": [
         "nces"
@@ -45241,7 +45236,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "State awards for need-based undergraduate scholarship and grant programs, by state:            1987-88 to 2000-01     ",
+      "title": "State awards for need-based undergraduate scholarship and grant programs, by state:            1987-88 to 2000-01",
       "description": "text",
       "keyword": [
         "nces"
@@ -45317,7 +45312,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\t\r\n\r\nNAEP State Mapping - Percentage of NAEP schools available for comparing state assessment results with NAEP results in grades 8 and percentage of the student population represented in these comparison schools, by subject, state, and testing program: 2017\r\n\r\n",
+      "title": "NAEP State Mapping - Percentage of NAEP schools available for comparing state assessment results with NAEP results in grades 8 and percentage of the student population represented in these comparison schools, by subject, state, and testing program: 2017",
       "description": "text",
       "keyword": [
         "nces"
@@ -45637,7 +45632,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "School-age populations as a percent of total population, by country: Selected years, 1985 to 1999 ",
+      "title": "School-age populations as a percent of total population, by country: Selected years, 1985 to 1999",
       "description": "text",
       "keyword": [
         "nces"
@@ -46543,7 +46538,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " Percentage distribution of private school principals, by highest degree earned and affiliation: 2017\u201318",
+      "title": "Percentage distribution of private school principals, by highest degree earned and affiliation: 2017\u201318",
       "description": "text",
       "keyword": [
         "nces"
@@ -48049,7 +48044,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " Number and percentage distribution of kindergarten-terminal private schools, kindergarten \tstudents, and full-time equivalent (FTE) kindergarten teachers, by selected characteristics: United States,  2011\u201312",
+      "title": "Number and percentage distribution of kindergarten-terminal private schools, kindergarten \tstudents, and full-time equivalent (FTE) kindergarten teachers, by selected characteristics: United States,  2011\u201312",
       "description": "text",
       "keyword": [
         "nces"
@@ -48209,7 +48204,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        National Teacher and Principal Survey - Average salary for public school principals by years of experience as a principal and school year: selected years 2003\u20132012",
+      "title": "National Teacher and Principal Survey - Average salary for public school principals by years of experience as a principal and school year: selected years 2003\u20132012",
       "description": "text",
       "keyword": [
         "nces"
@@ -48491,7 +48486,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Revenues for public elementary and secondary schools, by source of funds: Selected years, 1919-20 to 2001-02 ",
+      "title": "Revenues for public elementary and secondary schools, by source of funds: Selected years, 1919-20 to 2001-02",
       "description": "text",
       "keyword": [
         "nces"
@@ -48529,7 +48524,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Trends in Student Performance\u2014Trends in U.S Performance",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Trends in Student Performance\u2014Trends in U.S Performance",
       "description": "text",
       "keyword": [
         "nces"
@@ -48955,7 +48950,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Mathematics performance of 17-year-olds, by highest mathematics course taken, sex, and race/ethnicity: Selected years, 1978 through 2004 ",
+      "title": "Mathematics performance of 17-year-olds, by highest mathematics course taken, sex, and race/ethnicity: Selected years, 1978 through 2004",
       "description": "text",
       "keyword": [
         "nces"
@@ -49115,7 +49110,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Graduation rates of previous year\u2020s 12th-graders and college attendance rates of those who graduated, by selected high school characteristics: 1999\u20132000 and 2003\u201304 ",
+      "title": "Graduation rates of previous year\u2020s 12th-graders and college attendance rates of those who graduated, by selected high school characteristics: 1999\u20132000 and 2003\u201304",
       "description": "text",
       "keyword": [
         "nces"
@@ -49685,7 +49680,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Percent of students at or above selected writing proficiency levels, by grade level and selected characteristics of students: 2002 ",
+      "title": "Percent of students at or above selected writing proficiency levels, by grade level and selected characteristics of students: 2002",
       "description": "text",
       "keyword": [
         "nces"
@@ -50773,7 +50768,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Total revenue of private not-for-profit degree-granting institutions, by source of funds and type of institution: 1996-97 to 2000-01 ",
+      "title": "Total revenue of private not-for-profit degree-granting institutions, by source of funds and type of institution: 1996-97 to 2000-01",
       "description": "text",
       "keyword": [
         "nces"
@@ -51709,7 +51704,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Problem Solving: Student Race/Ethnicity",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Problem Solving: Student Race/Ethnicity",
       "description": "text",
       "keyword": [
         "nces"
@@ -52135,7 +52130,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Average daily attendance in public elementary and secondary schools, by state: 1969-70 to 1993-94 ",
+      "title": "Average daily attendance in public elementary and secondary schools, by state: 1969-70 to 1993-94",
       "description": "text",
       "keyword": [
         "nces"
@@ -52249,7 +52244,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Percentage of students attaining geography achievement levels, by grade level and selected student characteristics: 2001 ",
+      "title": "Percentage of students attaining geography achievement levels, by grade level and selected student characteristics: 2001",
       "description": "text",
       "keyword": [
         "nces"
@@ -52439,7 +52434,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " -  - December 17, 2003",
+      "title": "-  - December 17, 2003",
       "description": "text",
       "keyword": [
         "nces"
@@ -53033,7 +53028,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2015 Results -\r\n        Reading Literacy: Race and Ethnicity",
+      "title": "Program for International Student Assessment (PISA): 2015 Results -\r\n        Reading Literacy: Race and Ethnicity",
       "description": "text",
       "keyword": [
         "nces"
@@ -53147,7 +53142,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Federal science and engineering obligations to colleges and universities, by agency and state:  Fiscal year 2000 ",
+      "title": "Federal science and engineering obligations to colleges and universities, by agency and state:  Fiscal year 2000",
       "description": "text",
       "keyword": [
         "nces"
@@ -53957,7 +53952,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Percent of vocational and nonvocational public school teachersof grades 9 to 12, by selected demographic and educationalcharacteristics: 1993-94 ",
+      "title": "Percent of vocational and nonvocational public school teachersof grades 9 to 12, by selected demographic and educationalcharacteristics: 1993-94",
       "description": "text",
       "keyword": [
         "nces"
@@ -54323,7 +54318,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\tNCES Conferences, Workshop/Training & Technical Assistance\r\n",
+      "title": "NCES Conferences, Workshop/Training & Technical Assistance",
       "description": "text",
       "keyword": [
         "nces"
@@ -54665,7 +54660,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Percent of student home computer users using specific applications, by selected characteristics: October 1997 ",
+      "title": "Percent of student home computer users using specific applications, by selected characteristics: October 1997",
       "description": "text",
       "keyword": [
         "nces"
@@ -54843,7 +54838,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Averaged freshman graduation rates for public secondary schools, by state or jurisdiction: Selected years, 1990\u201391 through 2005\u201306 ",
+      "title": "Averaged freshman graduation rates for public secondary schools, by state or jurisdiction: Selected years, 1990\u201391 through 2005\u201306",
       "description": "text",
       "keyword": [
         "nces"
@@ -54957,7 +54952,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\t\r\n\r\nNAEP State Mapping - Findings Table 2011b\r\n\r\n",
+      "title": "NAEP State Mapping - Findings Table 2011b",
       "description": "text",
       "keyword": [
         "nces"
@@ -55535,7 +55530,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Percent distribution of 1999-2000 bachelor's degree recipients 1 year after graduation, by field of study, occupational area, job characteristics, and annual salaries: 2001 ",
+      "title": "Percent distribution of 1999-2000 bachelor's degree recipients 1 year after graduation, by field of study, occupational area, job characteristics, and annual salaries: 2001",
       "description": "text",
       "keyword": [
         "nces"
@@ -55611,7 +55606,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Average reading scale scores of 4th-, 8th-, and 12th-graders, by selected student and school characteristics: Selected years, 1992 through 2007 ",
+      "title": "Average reading scale scores of 4th-, 8th-, and 12th-graders, by selected student and school characteristics: Selected years, 1992 through 2007",
       "description": "text",
       "keyword": [
         "nces"
@@ -55695,7 +55690,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Mobility of public and private elementary and secondary teachers, by selected teacher and school characteristics: Selected years, 1987\u201388 through 2004\u201305 ",
+      "title": "Mobility of public and private elementary and secondary teachers, by selected teacher and school characteristics: Selected years, 1987\u201388 through 2004\u201305",
       "description": "text",
       "keyword": [
         "nces"
@@ -55809,7 +55804,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        State Results: Florida",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        State Results: Florida",
       "description": "text",
       "keyword": [
         "nces"
@@ -56975,7 +56970,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " Percentage distribution of public school principals, by highest degree earned and state: 2017\u201318",
+      "title": "Percentage distribution of public school principals, by highest degree earned and state: 2017\u201318",
       "description": "text",
       "keyword": [
         "nces"
@@ -57417,7 +57412,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Percentage of American Indian/Alaska Native children and all children demonstrating specific cognitive skills, by child's age at assessment: 2001 -- Status and Trends in the Education of American Indians and Alaska Natives, ",
+      "title": "Percentage of American Indian/Alaska Native children and all children demonstrating specific cognitive skills, by child's age at assessment: 2001 -- Status and Trends in the Education of American Indians and Alaska Natives,",
       "description": "text",
       "keyword": [
         "nces"
@@ -57661,7 +57656,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Number of educational institutions, by level and control of institution: Selected years, 1980\u201381 through 2006\u201307 ",
+      "title": "Number of educational institutions, by level and control of institution: Selected years, 1980\u201381 through 2006\u201307",
       "description": "text",
       "keyword": [
         "nces"
@@ -58171,7 +58166,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Problem Solving: Student Economic, Cultural, and Social Status (ESCS)",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Problem Solving: Student Economic, Cultural, and Social Status (ESCS)",
       "description": "text",
       "keyword": [
         "nces"
@@ -58399,7 +58394,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\tCalendar of Events\r\n",
+      "title": "Calendar of Events",
       "description": "text",
       "keyword": [
         "nces"
@@ -60177,7 +60172,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Statistical profile of persons receiving doctor's degrees in the life sciences: Selected years, 1979-80 to 2000-01 ",
+      "title": "Statistical profile of persons receiving doctor's degrees in the life sciences: Selected years, 1979-80 to 2000-01",
       "description": "text",
       "keyword": [
         "nces"
@@ -60451,7 +60446,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Bachelor's degrees conferred by degree-granting institutions, by racial/ethnic group and sex of student: Selected years, 1976-77 to 2001-02 ",
+      "title": "Bachelor's degrees conferred by degree-granting institutions, by racial/ethnic group and sex of student: Selected years, 1976-77 to 2001-02",
       "description": "text",
       "keyword": [
         "nces"
@@ -60527,7 +60522,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Data File (Public Use): 1998 Academic Library ",
+      "title": "Data File (Public Use): 1998 Academic Library",
       "description": "text",
       "keyword": [
         "nces"
@@ -60923,7 +60918,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Trends in Student Performance\u2014Trends in U.S Performance",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Trends in Student Performance\u2014Trends in U.S Performance",
       "description": "text",
       "keyword": [
         "nces"
@@ -61319,7 +61314,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Table 3. Number of full-time-equivalent (FTE) staff for public schools, by category and state or jurisdiction: School year 2008\u201309 ",
+      "title": "Table 3. Number of full-time-equivalent (FTE) staff for public schools, by category and state or jurisdiction: School year 2008\u201309",
       "description": "text",
       "keyword": [
         "nces"
@@ -61395,7 +61390,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Total fall enrollment in degree-granting institutions, by control, level of enrollment, type of institution, and state or jurisdiction: 2002 ",
+      "title": "Total fall enrollment in degree-granting institutions, by control, level of enrollment, type of institution, and state or jurisdiction: 2002",
       "description": "text",
       "keyword": [
         "nces"
@@ -61585,7 +61580,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " Population in the boundaries of the 100 largest school districts in the United States and jurisdictions by race/ethnicity: School year 1999-2000, Table 17",
+      "title": "Population in the boundaries of the 100 largest school districts in the United States and jurisdictions by race/ethnicity: School year 1999-2000, Table 17",
       "description": "text",
       "keyword": [
         "nces"
@@ -61829,7 +61824,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2015 Results -\r\n        Financial Literacy: Standard Deviations",
+      "title": "Program for International Student Assessment (PISA): 2015 Results -\r\n        Financial Literacy: Standard Deviations",
       "description": "text",
       "keyword": [
         "nces"
@@ -61905,7 +61900,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Table 2.\r\n        Percentage distribution of 2007\u201308 beginning public school teachers, by teacher status and selected 2007\u201308 teacher and school characteristics: 2008\u201309 and 2009\u201310\r\n    ",
+      "title": "Table 2.\r\n        Percentage distribution of 2007\u201308 beginning public school teachers, by teacher status and selected 2007\u201308 teacher and school characteristics: 2008\u201309 and 2009\u201310",
       "description": "text",
       "keyword": [
         "nces"
@@ -62137,7 +62132,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " Number and percentage distribution of private schools, by school level and selected characteristics: United States, 2015\u201316",
+      "title": "Number and percentage distribution of private schools, by school level and selected characteristics: United States, 2015\u201316",
       "description": "text",
       "keyword": [
         "nces"
@@ -62183,7 +62178,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Number and percentage distribution of public elementary and secondary school teachers, by locale and selected characteristics: 2011\u201312 ",
+      "title": "Number and percentage distribution of public elementary and secondary school teachers, by locale and selected characteristics: 2011\u201312",
       "description": "text",
       "keyword": [
         "nces"
@@ -62647,7 +62642,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\t\r\n\r\nNAEP - Grade 12 Dance: Responding Task, Flamenco Excerpt\r\n\r\n",
+      "title": "NAEP - Grade 12 Dance: Responding Task, Flamenco Excerpt",
       "description": "text",
       "keyword": [
         "nces"
@@ -62761,7 +62756,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Total expenditures for public elementary and secondary education, by function and subfunction: Selected years, 1990-91 to 2000-01 ",
+      "title": "Total expenditures for public elementary and secondary education, by function and subfunction: Selected years, 1990-91 to 2000-01",
       "description": "text",
       "keyword": [
         "nces"
@@ -63073,7 +63068,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2015 Results -\r\n        State Results: Massachusetts - Trends in Student Performance",
+      "title": "Program for International Student Assessment (PISA): 2015 Results -\r\n        State Results: Massachusetts - Trends in Student Performance",
       "description": "text",
       "keyword": [
         "nces"
@@ -63309,7 +63304,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Associate's degrees and other subbaccalaureate awards conferred by degree-granting institutions, by length of curriculum, sex of student, and field of study: 2002-03 ",
+      "title": "Associate's degrees and other subbaccalaureate awards conferred by degree-granting institutions, by length of curriculum, sex of student, and field of study: 2002-03",
       "description": "text",
       "keyword": [
         "nces"
@@ -63347,7 +63342,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Private elementary and secondary schools, enrollment, teachers, and high schoolgraduates, by state: Fall 1997 ",
+      "title": "Private elementary and secondary schools, enrollment, teachers, and high schoolgraduates, by state: Fall 1997",
       "description": "text",
       "keyword": [
         "nces"
@@ -63537,7 +63532,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Earned degrees in English language and literature/letters conferred by institutions of higher education, by level of degree and sex of student: 1949-50 to 1993-94 ",
+      "title": "Earned degrees in English language and literature/letters conferred by institutions of higher education, by level of degree and sex of student: 1949-50 to 1993-94",
       "description": "text",
       "keyword": [
         "nces"
@@ -63803,7 +63798,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\tNCES Conferences, Workshop/Training & Technical Assistance\r\n",
+      "title": "NCES Conferences, Workshop/Training & Technical Assistance",
       "description": "text",
       "keyword": [
         "nces"
@@ -64207,7 +64202,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Earned degrees in the social sciences and history conferred by degree-granting institutions, by level of degree and sex of student: 1970-71 to 2002-03 ",
+      "title": "Earned degrees in the social sciences and history conferred by degree-granting institutions, by level of degree and sex of student: 1970-71 to 2002-03",
       "description": "text",
       "keyword": [
         "nces"
@@ -64451,7 +64446,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Average scores of 12th-grade students on Advanced Placement (AP) examinations, by subject and race/ethnicity: 2003 -- Status and Trends in the Education of American Indians and Alaska Natives, ",
+      "title": "Average scores of 12th-grade students on Advanced Placement (AP) examinations, by subject and race/ethnicity: 2003 -- Status and Trends in the Education of American Indians and Alaska Natives,",
       "description": "text",
       "keyword": [
         "nces"
@@ -64771,7 +64766,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Full-time and part-time senior instructional faculty\\1\\ in institutions of higher education, by employment status, control, and type of institution: Fall 1970 to fall 1993 ",
+      "title": "Full-time and part-time senior instructional faculty\\1\\ in institutions of higher education, by employment status, control, and type of institution: Fall 1970 to fall 1993",
       "description": "text",
       "keyword": [
         "nces"
@@ -65121,7 +65116,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Total fall enrollment in all degree-granting institutions, by attendance status, sex, and state or jurisdiction: 2001 and 2002 ",
+      "title": "Total fall enrollment in all degree-granting institutions, by attendance status, sex, and state or jurisdiction: 2001 and 2002",
       "description": "text",
       "keyword": [
         "nces"
@@ -65159,7 +65154,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\t\r\n\r\nNAEP State Mapping - Findings Table 2013b\r\n\r\n",
+      "title": "NAEP State Mapping - Findings Table 2013b",
       "description": "text",
       "keyword": [
         "nces"
@@ -66067,7 +66062,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\n        Percentage distribution of students who earned each level of credential, among 2003\u201304 beginning students who completed, by field of study when last enrolled: 2009\n    ",
+      "title": "Percentage distribution of students who earned each level of credential, among 2003\u201304 beginning students who completed, by field of study when last enrolled: 2009",
       "description": "text",
       "keyword": [
         "nces"
@@ -66235,7 +66230,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Trends in Student Performance\u2014Trends in U.S Performance",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Trends in Student Performance\u2014Trends in U.S Performance",
       "description": "text",
       "keyword": [
         "nces"
@@ -66319,7 +66314,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\tCalendar of Events\r\n",
+      "title": "Calendar of Events",
       "description": "text",
       "keyword": [
         "nces"
@@ -67529,7 +67524,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " Total number of private schools and students, and percentage of private schools and students that participated in the Title I and federal free or reduced-price lunch programs, by school type and selected school characteristics: 2015\u201316",
+      "title": "Total number of private schools and students, and percentage of private schools and students that participated in the Title I and federal free or reduced-price lunch programs, by school type and selected school characteristics: 2015\u201316",
       "description": "text",
       "keyword": [
         "nces"
@@ -67651,7 +67646,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Students transported at public expense and current expenditures for transportation: Selected years, 1929\u201330 through 2005\u201306 ",
+      "title": "Students transported at public expense and current expenditures for transportation: Selected years, 1929\u201330 through 2005\u201306",
       "description": "text",
       "keyword": [
         "nces"
@@ -68031,7 +68026,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Percent of public school teachers who agree strongly or agree somewhat with specific aspects of job satisfaction: 1984 and 1995 ",
+      "title": "Percent of public school teachers who agree strongly or agree somewhat with specific aspects of job satisfaction: 1984 and 1995",
       "description": "text",
       "keyword": [
         "nces"
@@ -68465,7 +68460,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " - Concurrent Session V Presentations",
+      "title": "- Concurrent Session V Presentations",
       "description": "text",
       "keyword": [
         "nces"
@@ -69029,7 +69024,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2015 Results -\r\n        Trends in Student Performance: International Trends in Average Scores",
+      "title": "Program for International Student Assessment (PISA): 2015 Results -\r\n        Trends in Student Performance: International Trends in Average Scores",
       "description": "text",
       "keyword": [
         "nces"
@@ -69349,7 +69344,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Average scale score in reading for 4th-graders in public schools, by race/ethnicity and state or jurisdiction: Selected years, 1994 to 2003 ",
+      "title": "Average scale score in reading for 4th-graders in public schools, by race/ethnicity and state or jurisdiction: Selected years, 1994 to 2003",
       "description": "text",
       "keyword": [
         "nces"
@@ -69851,7 +69846,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " Average annual salary for private school principals, by years of experience as a principal and affiliation: 2017\u201318",
+      "title": "Average annual salary for private school principals, by years of experience as a principal and affiliation: 2017\u201318",
       "description": "text",
       "keyword": [
         "nces"
@@ -70277,7 +70272,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Teaching and Learning International Survey (TALIS): 2013 Results\r\n        -\r\n        Professional Development: Participation rates and financial cost",
+      "title": "Teaching and Learning International Survey (TALIS): 2013 Results\r\n        -\r\n        Professional Development: Participation rates and financial cost",
       "description": "text",
       "keyword": [
         "nces"
@@ -71221,7 +71216,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Labor force status of high school dropouts, by sex and race/ethnicity: Selected years, 1980 through 2007 ",
+      "title": "Labor force status of high school dropouts, by sex and race/ethnicity: Selected years, 1980 through 2007",
       "description": "text",
       "keyword": [
         "nces"
@@ -71609,7 +71604,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " Number and percentage distribution of kindergarten-terminal private schools, kindergarten \tstudents, and full-time equivalent (FTE) kindergarten teachers, by selected characteristics: United States,  2011\u201312",
+      "title": "Number and percentage distribution of kindergarten-terminal private schools, kindergarten \tstudents, and full-time equivalent (FTE) kindergarten teachers, by selected characteristics: United States,  2011\u201312",
       "description": "text",
       "keyword": [
         "nces"
@@ -72157,7 +72152,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        State Results: Florida",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        State Results: Florida",
       "description": "text",
       "keyword": [
         "nces"
@@ -72233,7 +72228,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Instructional practices and time spent teaching science in eighth-grade, by country: 1999 ",
+      "title": "Instructional practices and time spent teaching science in eighth-grade, by country: 1999",
       "description": "text",
       "keyword": [
         "nces"
@@ -74033,7 +74028,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Reading Literacy: Average Scores",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Reading Literacy: Average Scores",
       "description": "text",
       "keyword": [
         "nces"
@@ -74375,7 +74370,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " - Concurrent Session 5 Presentations",
+      "title": "- Concurrent Session 5 Presentations",
       "description": "text",
       "keyword": [
         "nces"
@@ -74691,7 +74686,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " Distribution of regular public elementary and secondary schools with assigned membership in the 100 largest school districts in the United States and jurisdictions, by membership size: School year 2000-01, Table 4",
+      "title": "Distribution of regular public elementary and secondary schools with assigned membership in the 100 largest school districts in the United States and jurisdictions, by membership size: School year 2000-01, Table 4",
       "description": "text",
       "keyword": [
         "nces"
@@ -74805,7 +74800,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Trends in High School Dropout and Completion Rates in the United States: 1972\u20132008\r\n        -\r\n        List of Tables",
+      "title": "Trends in High School Dropout and Completion Rates in the United States: 1972\u20132008\r\n        -\r\n        List of Tables",
       "description": "text",
       "keyword": [
         "nces"
@@ -75663,7 +75658,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2015 Results -\r\n        Collaborative Problem Solving: School Poverty Indicator",
+      "title": "Program for International Student Assessment (PISA): 2015 Results -\r\n        Collaborative Problem Solving: School Poverty Indicator",
       "description": "text",
       "keyword": [
         "nces"
@@ -75853,7 +75848,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Trends in U.S. Performance by Student Race/Ethnicity",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Trends in U.S. Performance by Student Race/Ethnicity",
       "description": "text",
       "keyword": [
         "nces"
@@ -75891,7 +75886,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Expenditures for instruction in public elementary and secondary schools, by subfunction and state or jurisdiction: 2004\u201305 and 2005\u201306 ",
+      "title": "Expenditures for instruction in public elementary and secondary schools, by subfunction and state or jurisdiction: 2004\u201305 and 2005\u201306",
       "description": "text",
       "keyword": [
         "nces"
@@ -76431,7 +76426,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Enrollment in public elementary and secondary schools, by state or jurisdiction: Fall 1988 to fall 2002 ",
+      "title": "Enrollment in public elementary and secondary schools, by state or jurisdiction: Fall 1988 to fall 2002",
       "description": "text",
       "keyword": [
         "nces"
@@ -77237,7 +77232,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Earned degrees in communications conferred by degree-granting institutions, by level of degree and sex of student: Selected years, 1970-71 to 2001-02 ",
+      "title": "Earned degrees in communications conferred by degree-granting institutions, by level of degree and sex of student: Selected years, 1970-71 to 2001-02",
       "description": "text",
       "keyword": [
         "nces"
@@ -77929,7 +77924,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\t\r\n\r\nNAEP State Mapping - Findings Table 2013c\r\n\r\n",
+      "title": "NAEP State Mapping - Findings Table 2013c",
       "description": "text",
       "keyword": [
         "nces"
@@ -78005,7 +78000,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Bachelor's, master's, and doctor's degrees conferred by degree-granting institutions, by sex of student and field of study: 2001-02 ",
+      "title": "Bachelor's, master's, and doctor's degrees conferred by degree-granting institutions, by sex of student and field of study: 2001-02",
       "description": "text",
       "keyword": [
         "nces"
@@ -78257,7 +78252,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Percent of degree-granting institutions with first-year undergraduates using various selection criteria for admission, by type and control of institution: 2000-01, 2002-03, and 2003-04 ",
+      "title": "Percent of degree-granting institutions with first-year undergraduates using various selection criteria for admission, by type and control of institution: 2000-01, 2002-03, and 2003-04",
       "description": "text",
       "keyword": [
         "nces"
@@ -78417,7 +78412,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Percent of students at or above selected geography proficiency levels, by selected characteristics and grade level: 1994 ",
+      "title": "Percent of students at or above selected geography proficiency levels, by selected characteristics and grade level: 1994",
       "description": "text",
       "keyword": [
         "nces"
@@ -78753,7 +78748,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Percentage of master's and doctoral degrees conferred in total and to American Indian/Alaska Natives by degree-granting institutions in the most  popular fields of study: 2002-03 -- Status and Trends in the Education of American Indians and Alaska Natives, ",
+      "title": "Percentage of master's and doctoral degrees conferred in total and to American Indian/Alaska Natives by degree-granting institutions in the most  popular fields of study: 2002-03 -- Status and Trends in the Education of American Indians and Alaska Natives,",
       "description": "text",
       "keyword": [
         "nces"
@@ -79369,7 +79364,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Full-time-equivalent fall enrollment in degree-granting institutions, by control and type of institution and state or jurisdiction: 2000 to 2002 ",
+      "title": "Full-time-equivalent fall enrollment in degree-granting institutions, by control and type of institution and state or jurisdiction: 2000 to 2002",
       "description": "text",
       "keyword": [
         "nces"
@@ -80107,7 +80102,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Residence and migration of all freshmen students in degree-granting institutions, by state or jurisdiction: Fall 2006 ",
+      "title": "Residence and migration of all freshmen students in degree-granting institutions, by state or jurisdiction: Fall 2006",
       "description": "text",
       "keyword": [
         "nces"
@@ -80639,7 +80634,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " OECD: Number of teaching hours per year, by level of education and country: 2000, 2005-2009",
+      "title": "OECD: Number of teaching hours per year, by level of education and country: 2000, 2005-2009",
       "description": "text",
       "keyword": [
         "nces"
@@ -80875,7 +80870,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Full-time instructional faculty in degree-granting institutions, by race/ethnicity and residency status, sex, and academic rank: Fall 2003 and fall 2005 ",
+      "title": "Full-time instructional faculty in degree-granting institutions, by race/ethnicity and residency status, sex, and academic rank: Fall 2003 and fall 2005",
       "description": "text",
       "keyword": [
         "nces"
@@ -81609,7 +81604,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        National Teacher and Principal Survey - Number of public schools, full-time-equivalent (FTE) teachers, students, and average student to FTE teacher ratio, by selected school characteristics: 2011\u201312",
+      "title": "National Teacher and Principal Survey - Number of public schools, full-time-equivalent (FTE) teachers, students, and average student to FTE teacher ratio, by selected school characteristics: 2011\u201312",
       "description": "text",
       "keyword": [
         "nces"
@@ -83035,7 +83030,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Percentage of children demonstrating specific cognitive and motor skills at about 9 months of age, by child's age and selected characteristics: 2001\u201302 ",
+      "title": "Percentage of children demonstrating specific cognitive and motor skills at about 9 months of age, by child's age and selected characteristics: 2001\u201302",
       "description": "text",
       "keyword": [
         "nces"
@@ -84435,7 +84430,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Number and percentage distribution of degrees conferred by degree-granting institutions, by race/ethnicity, sex, and type of degree: 2002-03 -- Status and Trends in the Education of American Indians and Alaska Natives, ",
+      "title": "Number and percentage distribution of degrees conferred by degree-granting institutions, by race/ethnicity, sex, and type of degree: 2002-03 -- Status and Trends in the Education of American Indians and Alaska Natives,",
       "description": "text",
       "keyword": [
         "nces"
@@ -84869,7 +84864,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Expenditures for instruction in public elementary and secondary schools, by subfunction and state: 1992-93 and 1993-94 ",
+      "title": "Expenditures for instruction in public elementary and secondary schools, by subfunction and state: 1992-93 and 1993-94",
       "description": "text",
       "keyword": [
         "nces"
@@ -85341,7 +85336,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Table A-14. Percentage distribution of public elementary and secondary revenues by source and total current expenditures for instruction for the 100 largest school districts in the United States and jurisdictions, by school district: Fiscal year 2006 ",
+      "title": "Table A-14. Percentage distribution of public elementary and secondary revenues by source and total current expenditures for instruction for the 100 largest school districts in the United States and jurisdictions, by school district: Fiscal year 2006",
       "description": "text",
       "keyword": [
         "nces"
@@ -85463,7 +85458,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Associate degrees conferred by degree-granting institutions, by field of study: 1990-91 to 2001-02 ",
+      "title": "Associate degrees conferred by degree-granting institutions, by field of study: 1990-91 to 2001-02",
       "description": "text",
       "keyword": [
         "nces"
@@ -85813,7 +85808,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Reading Literacy: Proficiency Levels",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Reading Literacy: Proficiency Levels",
       "description": "text",
       "keyword": [
         "nces"
@@ -85859,7 +85854,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Teaching and Learning International Survey (TALIS): 2013 Results\r\n        -\r\n        Teacher and Principal Characteristics: Level of education",
+      "title": "Teaching and Learning International Survey (TALIS): 2013 Results\r\n        -\r\n        Teacher and Principal Characteristics: Level of education",
       "description": "text",
       "keyword": [
         "nces"
@@ -85973,7 +85968,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\tCalendar of Events\r\n",
+      "title": "Calendar of Events",
       "description": "text",
       "keyword": [
         "nces"
@@ -86163,7 +86158,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Computer-Based Assessments: Reading Computer-Based Assessment",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Computer-Based Assessments: Reading Computer-Based Assessment",
       "description": "text",
       "keyword": [
         "nces"
@@ -86491,7 +86486,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Selected statistics for degree-granting institutions enrolling more than 15,000 students in 2006: Selected years, 1990 through 2007 ",
+      "title": "Selected statistics for degree-granting institutions enrolling more than 15,000 students in 2006: Selected years, 1990 through 2007",
       "description": "text",
       "keyword": [
         "nces"
@@ -86909,7 +86904,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Average student scale score in reading, by age and selected student and school characteristics: Selected years, 1971 to 1999 ",
+      "title": "Average student scale score in reading, by age and selected student and school characteristics: Selected years, 1971 to 1999",
       "description": "text",
       "keyword": [
         "nces"
@@ -88031,7 +88026,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        State Results: Florida",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        State Results: Florida",
       "description": "text",
       "keyword": [
         "nces"
@@ -88115,7 +88110,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2015 Results -\r\n        Reading Literacy: Average Scores",
+      "title": "Program for International Student Assessment (PISA): 2015 Results -\r\n        Reading Literacy: Average Scores",
       "description": "text",
       "keyword": [
         "nces"
@@ -88915,7 +88910,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Trends in Student Performance: International Trends in Average Scores",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Trends in Student Performance: International Trends in Average Scores",
       "description": "text",
       "keyword": [
         "nces"
@@ -89227,7 +89222,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " Poverty status of all persons, persons in families, and related children under age 18, by race/ethnicity: Selected years, 1959 through 2007",
+      "title": "Poverty status of all persons, persons in families, and related children under age 18, by race/ethnicity: Selected years, 1959 through 2007",
       "description": "text",
       "keyword": [
         "nces"
@@ -89701,7 +89696,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "PEQIS 18: Public-Use Data Files and Documentation: Dual Enrollment Programs and Courses for High School Students, 2010-11 \r\n(NCES 2013-006)\r\n",
+      "title": "PEQIS 18: Public-Use Data Files and Documentation: Dual Enrollment Programs and Courses for High School Students, 2010-11 \r\n(NCES 2013-006)",
       "description": "text",
       "keyword": [
         "nces"
@@ -90501,7 +90496,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Eighth-grade students' perceptions about mathematics and hours spent on leisure activities, by country: 1999 ",
+      "title": "Eighth-grade students' perceptions about mathematics and hours spent on leisure activities, by country: 1999",
       "description": "text",
       "keyword": [
         "nces"
@@ -91999,7 +91994,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Earned degrees in agriculture and natural resources conferred by degree-granting institutions, by level of degree and sex of student: 1970-71 to 2002-03 ",
+      "title": "Earned degrees in agriculture and natural resources conferred by degree-granting institutions, by level of degree and sex of student: 1970-71 to 2002-03",
       "description": "text",
       "keyword": [
         "nces"
@@ -92037,7 +92032,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Mathematics Literacy: Student Race/Ethnicity",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Mathematics Literacy: Student Race/Ethnicity",
       "description": "text",
       "keyword": [
         "nces"
@@ -92199,7 +92194,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Full-time-equivalent fall enrollment in degree-granting institutions, by control and state or jurisdiction: Selected years, 1980 to 2002 ",
+      "title": "Full-time-equivalent fall enrollment in degree-granting institutions, by control and state or jurisdiction: Selected years, 1980 to 2002",
       "description": "text",
       "keyword": [
         "nces"
@@ -92587,7 +92582,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Enrollment, staff, and degrees conferred in postsecondary institutions participating in Title IV programs, by level and control of institution, sex, and type of degree: Fall 2001 and 2001-02 ",
+      "title": "Enrollment, staff, and degrees conferred in postsecondary institutions participating in Title IV programs, by level and control of institution, sex, and type of degree: Fall 2001 and 2001-02",
       "description": "text",
       "keyword": [
         "nces"
@@ -93183,7 +93178,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\t\r\n\r\nNAEP about - Inclusion of SD/ELL Students\r\n\r\n",
+      "title": "NAEP about - Inclusion of SD/ELL Students",
       "description": "text",
       "keyword": [
         "nces"
@@ -93815,7 +93810,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Teaching and Learning International Survey (TALIS): 2013 Results\r\n        -\r\n        Teacher Appraisal and Feedback: Experience with appraisal",
+      "title": "Teaching and Learning International Survey (TALIS): 2013 Results\r\n        -\r\n        Teacher Appraisal and Feedback: Experience with appraisal",
       "description": "text",
       "keyword": [
         "nces"
@@ -93953,7 +93948,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Average graduate and first-professional tuition and required fees in degree-granting institutions, by first-professional discipline and control of institution: 1987-88 to 2003-04 ",
+      "title": "Average graduate and first-professional tuition and required fees in degree-granting institutions, by first-professional discipline and control of institution: 1987-88 to 2003-04",
       "description": "text",
       "keyword": [
         "nces"
@@ -94029,7 +94024,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Number and percentage distribution of associate's degrees awarded by ",
+      "title": "Number and percentage distribution of associate's degrees awarded by",
       "description": "text",
       "keyword": [
         "nces"
@@ -95523,7 +95518,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n\t\r\n\r\nNAEP State Mapping - Findings Table 2009f\r\n\r\n",
+      "title": "NAEP State Mapping - Findings Table 2009f",
       "description": "text",
       "keyword": [
         "nces"
@@ -95835,7 +95830,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Percentage distribution of ",
+      "title": "Percentage distribution of",
       "description": "text",
       "keyword": [
         "nces"
@@ -95995,7 +95990,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Labor force status of high school dropouts, by sex and race/ethnicity: Selected years, 1980 to 2004 ",
+      "title": "Labor force status of high school dropouts, by sex and race/ethnicity: Selected years, 1980 to 2004",
       "description": "text",
       "keyword": [
         "nces"
@@ -96117,7 +96112,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "\r\n        Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Reading Literacy: Average Scores",
+      "title": "Program for International Student Assessment (PISA): 2012 Results\r\n        -\r\n        Reading Literacy: Average Scores",
       "description": "text",
       "keyword": [
         "nces"
@@ -97053,7 +97048,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Earned degrees in chemical, civil, electrical, and mechanical engineering conferred by degree-granting institutions, by level of degree: 1970-71 to 2002-03 ",
+      "title": "Earned degrees in chemical, civil, electrical, and mechanical engineering conferred by degree-granting institutions, by level of degree: 1970-71 to 2002-03",
       "description": "text",
       "keyword": [
         "nces"
@@ -98013,7 +98008,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Employment of 12th graders, by selected student and school characteristics: 1992 ",
+      "title": "Employment of 12th graders, by selected student and school characteristics: 1992",
       "description": "text",
       "keyword": [
         "nces"
@@ -98577,7 +98572,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Parent and Family Involvement in Education Survey (PFI) Data File from the National Household Education Surveys Program of 2003 ",
+      "title": "Parent and Family Involvement in Education Survey (PFI) Data File from the National Household Education Surveys Program of 2003",
       "description": "text",
       "keyword": [
         "nces"
@@ -99721,7 +99716,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Total expenditures for public elementary and secondary education, by function and subfunction: Selected years, 1990\u201391 through 2005\u201306 ",
+      "title": "Total expenditures for public elementary and secondary education, by function and subfunction: Selected years, 1990\u201391 through 2005\u201306",
       "description": "text",
       "keyword": [
         "nces"
@@ -99835,7 +99830,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": " Number of private schools, students, and teachers (headcount), by school membership in private school associations: United States, 2015\u201316",
+      "title": "Number of private schools, students, and teachers (headcount), by school membership in private school associations: United States, 2015\u201316",
       "description": "text",
       "keyword": [
         "nces"
@@ -100429,7 +100424,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Percent of high school seniors who participate in various school-sponsored extracurricular activities, by selected student characteristics: 1980 and 1992 ",
+      "title": "Percent of high school seniors who participate in various school-sponsored extracurricular activities, by selected student characteristics: 1980 and 1992",
       "description": "text",
       "keyword": [
         "nces"
@@ -102987,7 +102982,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Table H116.   Average class size for grade 9 through 12 public school teachers and percentage distribution of class size, by school type and main teaching assignment: 2008 ",
+      "title": "Table H116.   Average class size for grade 9 through 12 public school teachers and percentage distribution of class size, by school type and main teaching assignment: 2008",
       "description": "text",
       "keyword": [
         "nces"
@@ -103147,7 +103142,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Educational institutions, by level and control of institution: Selected years, 1980-81 to 2001-02 ",
+      "title": "Educational institutions, by level and control of institution: Selected years, 1980-81 to 2001-02",
       "description": "text",
       "keyword": [
         "nces"
@@ -103939,7 +103934,7 @@
     },
     {
       "@type": "dcat:Dataset",
-      "title": "Table H115.   Number of grade 9 through 12 public school teachers, average years of teaching experience, and percentage distribution of years of teaching experience, by school type and main teaching assignment: 2008 ",
+      "title": "Table H115.   Number of grade 9 through 12 public school teachers, average years of teaching experience, and percentage distribution of years of teaching experience, by school type and main teaching assignment: 2008",
       "description": "text",
       "keyword": [
         "nces"
