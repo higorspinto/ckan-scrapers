@@ -12,12 +12,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Projections_2004",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Projections_2004",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -458,12 +458,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -576,12 +576,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Projections_2006",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Projections_2006",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -1022,12 +1022,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -1572,12 +1572,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -1610,12 +1610,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -1656,12 +1656,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -1694,12 +1694,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -1780,12 +1780,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -2298,12 +2298,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -2336,12 +2336,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -2382,12 +2382,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -2516,12 +2516,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -3002,12 +3002,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/DownloadDataFile",
+      "source_url": "https://ocrdata.ed.gov/DownloadDataFile",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -3040,12 +3040,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -3078,12 +3078,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -3572,12 +3572,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -3610,12 +3610,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -4104,12 +4104,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Projections_2009_10",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Projections_2009_10",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -4550,12 +4550,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -4588,12 +4588,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -4626,12 +4626,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -5680,12 +5680,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -5718,12 +5718,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -5868,12 +5868,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -5930,12 +5930,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -5992,12 +5992,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -6030,12 +6030,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -6068,12 +6068,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -6130,12 +6130,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -6168,12 +6168,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2013_14",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -6206,12 +6206,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Projections_2000",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Projections_2000",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -6652,12 +6652,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
@@ -6714,12 +6714,12 @@
       "keyword": [
         "ocr"
       ],
-      "modified": "2020-03-16",
+      "modified": "2020-03-17",
       "publisher": {
         "@type": "org:Organization",
         "name": "Office for Civil Rights"
       },
-      "landingPage": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
+      "source_url": "https://ocrdata.ed.gov/StateNationalEstimations/Estimations_2011_12",
       "contactPoint": {
         "@type": "vcard:Contact",
         "hasEmail": "mailto:info@viderum.com",
